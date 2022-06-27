@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    printf("안치산\n");
+    printf("안치산2\n");
     return 0;
 }
